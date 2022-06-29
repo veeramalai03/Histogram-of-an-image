@@ -25,8 +25,8 @@ Anaconda - Python 3.7
 
 ## Program:
 ```python
-# Developed By: ASHWIN A O 
-# Register Number: 212220230005
+# Developed By : veeramalai s 
+# Register Number: 212220230056
 import cv2
 import matplotlib.pyplot as plt
 
@@ -87,7 +87,6 @@ cv2.destroyAllWindows()
 <br>
 
 ### Histogram Equalization of Grayscale Image
-<br>
 <br>![fdgh](https://user-images.githubusercontent.com/75234790/167667941-6f71fae3-8c2d-4989-97c0-529e03b309f0.png)
 
 <br>
